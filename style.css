@@ -1,4 +1,5 @@
 body {
+    /*min-width: 100%;*/
     margin: 0;
     background-color: #a34ffd;
 }
@@ -81,8 +82,8 @@ button:hover{
     }
 
     button{
-        width: 90px;
-        height: 90px;
+        width: 70px;
+        height: 70px;
         border-radius: 50px;
     }
 }
