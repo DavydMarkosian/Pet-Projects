@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0d6631c-8eaf-4242-aa45-071ddec192a9" name="Changes" comment="done with phone adaptive">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="d0d6631c-8eaf-4242-aa45-071ddec192a9" name="Changes" comment="buttons size fixed">
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1713975785641</updated>
       <workItem from="1713975788590" duration="13316000" />
-      <workItem from="1713995291077" duration="725000" />
+      <workItem from="1713995291077" duration="1057000" />
     </task>
     <task id="LOCAL-00001" summary="created pet-projects directory">
       <created>1713976545729</created>
@@ -80,7 +79,21 @@
       <option name="project" value="LOCAL" />
       <updated>1713995324633</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="meta tag">
+      <created>1713996035873</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713996035873</updated>
+    </task>
+    <task id="LOCAL-00006" summary="buttons size fixed">
+      <created>1713996268350</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1713996268350</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +113,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created pet-projects directory" />
     <MESSAGE value="done with phone adaptive" />
-    <option name="LAST_COMMIT_MESSAGE" value="done with phone adaptive" />
+    <MESSAGE value="meta tag" />
+    <MESSAGE value="buttons size fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="buttons size fixed" />
   </component>
 </project>
