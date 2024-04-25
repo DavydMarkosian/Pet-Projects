@@ -66,6 +66,7 @@ button:hover{
     justify-content: space-between;
 }
 
+
 @media (max-width: 480px) {
     .main_block {
         background-color: rgba(255, 255, 255, 0.81);
@@ -86,8 +87,15 @@ button:hover{
         height: 75px;
         border-radius: 50px;
     }
-}
+    button:hover{
+        background-color: black;
+    }
 
+    button:active{
+        background-color: #a34ffd;
+    }
+
+}
 
 
 

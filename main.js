@@ -11,7 +11,6 @@ let mins = 0
 let secs = 0
 let millisecs = 0
 
-
 function startTimerFn() {
     millisecs++;
     millisecs <= 9 ? milliseconds.innerText = '0' + millisecs : milliseconds.innerText = millisecs
@@ -42,7 +41,6 @@ function resetTimerFn() {
     milliseconds.innerText = '00'
     stopTimerFn()
 }
-
 
 btnStart.addEventListener('click', () => {
     clearInterval(interval)
