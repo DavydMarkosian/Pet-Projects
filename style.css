@@ -7,8 +7,9 @@ body {
 .wrap {
     height: 100vh;
     display: flex;
-    justify-content: center;
+    justify-content: start;
     align-items: center;
+    flex-direction: column;
 }
 
 .main_block {
@@ -50,9 +51,9 @@ button {
     width: 30%;
     height: 10vh;
     background-color: black;
-    border: none;
+    border: 2px black solid;
     font-size: 18px;
-
+    box-shadow: inset 0 0 0 1px rgb(237, 221, 253);
 }
 button:hover{
     cursor: pointer;
@@ -66,8 +67,12 @@ button:hover{
     justify-content: space-between;
 }
 #title{
-    margin: 0;
-    font-size: 30px;
+    font-size: 28px;
+}
+.bebas-neue-regular {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 
