@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0d6631c-8eaf-4242-aa45-071ddec192a9" name="Changes" comment="title changed">
+    <list default="true" id="d0d6631c-8eaf-4242-aa45-071ddec192a9" name="Changes" comment="active mobile button state added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1713975785641</updated>
       <workItem from="1713975788590" duration="13316000" />
-      <workItem from="1713995291077" duration="4762000" />
+      <workItem from="1713995291077" duration="5516000" />
     </task>
     <task id="LOCAL-00001" summary="created pet-projects directory">
       <created>1713976545729</created>
@@ -137,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1714062728521</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="active mobile button state added">
+      <created>1714064763772</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1714064763772</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +171,7 @@
     <MESSAGE value="radius" />
     <MESSAGE value="75 &#10;50" />
     <MESSAGE value="title changed" />
-    <option name="LAST_COMMIT_MESSAGE" value="title changed" />
+    <MESSAGE value="active mobile button state added" />
+    <option name="LAST_COMMIT_MESSAGE" value="active mobile button state added" />
   </component>
 </project>
